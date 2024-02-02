@@ -73,13 +73,13 @@ The data files that are used for this project is available in the repository and
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/e-commerce-ml-project.git
+   git clone https://github.com/Priyanga2023/E-Comm-ML-NLP-Image-Preprocess-Classify-Predict-Recommend-Model.git
 2. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
 3. **Run the Project:**
    ```bash
-   streamlit run app.py
+   streamlit run E-Comm ML.py
 
 ## Contribution Guidelines
   Contributions to this project are highly encouraged. If you come across any challenges or have ideas for enhancements, we invite you to submit a pull request. Your input is valuable to us, and we appreciate your contributions.
