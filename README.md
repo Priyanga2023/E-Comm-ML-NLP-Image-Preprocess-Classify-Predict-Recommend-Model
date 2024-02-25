@@ -4,7 +4,7 @@
 ## E-Comm ML: Machine Learning Model Building Project
 
 ### Objective
-Leverage data science and machine learning techniques to analyze and enhance different aspects of E-commerce data, including EDA, Evaluation Metrics, Classification & Prediction, Image processing, NLP, and Product Recommendation systems.
+Leverage data science and machine learning techniques to analyze and enhance different aspects of E-commerce data, including EDA, Evaluation Metrics, Classification & Prediction, Image processing, NLP, and Recommendation systems.
 
 ### Technologies Used
 - Python
@@ -19,7 +19,7 @@ Leverage data science and machine learning techniques to analyze and enhance dif
 - And more necessary modules or packages...
 
 ### Problem Statement
-Develop a comprehensive project that covers EDA, Evaluation Metrics, Data Classification & Prediction, Image processing, NLP, and Product Recommendation systems using an E-commerce dataset. The goal is to predict user conversion, explore data patterns, preprocess images, analyze text data, and recommend products.
+Develop a comprehensive project that covers EDA, Evaluation Metrics, Data Classification & Prediction, Image Processing & Classification, NLP, and Product Recommendation systems using an E-commerce dataset. The goal is to predict user conversion, explore data patterns, preprocess images, analyze text data, and recommend products.
 
 ### Datasets Link
 [Data Link](https://drive.google.com/drive/folders/1ATULlRKrSensZHs2SxaT7y0b68Rc1vQA)
@@ -28,14 +28,14 @@ Develop a comprehensive project that covers EDA, Evaluation Metrics, Data Classi
 
 ### Project Structure
 The project is organized into distinct sections, including:
-- Exploratory Data Analysis
+- Exploratory Data Analysis (EDA)
 - Evaluation Metrics
 - Data Classification & Prediction
 - Image Processing & Classification
 - Natural Language Processing (NLP)
 - Product Recommendation System
 
-## Section 1: Exploratory Data Analysis
+## Section 1: Exploratory Data Analysis  (EDA)
 1. Load and explore the E-commerce dataset.
 2. Visualize key statistics and features.
 3. Identify patterns and outliers.
