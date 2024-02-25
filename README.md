@@ -40,20 +40,20 @@ The project is organized into distinct sections, including:
 4. Build and evaluate machine learning models for classification.
 5. Display precision, recall, accuracy, and F1-score.
 
-## Section 2: Image Processing
+## Section 2: Image Processing & Classification
 1. Upload & read the Image.
 2. Process the Image, and perform image pre-processing steps.
 3. Display pre-processed images with titles (e.g., Resized Image, Edge Detected Image, etc.).
 4. If a Text Image is uploaded, show the result of OCR (Optical Character Recognition).
 
-## Section 3: NLP
+## Section 3: Natural Language Processing (NLP)
 1. Input a bunch of text.
 2. Perform NLP pre-processing steps.
 3. Showcase each step's outputs with their names.
 4. Find keywords from the text.
 5. Perform sentiment analysis on the text and visualize the plot.
 
-## Section 4: Recommendation System
+## Section 4: Product Recommendation System
 1. Build a product recommendation system using the E-commerce dataset.
 2. Allow users to input a product and receive recommended products.
 3. Implement recommendation algorithms.
