@@ -24,6 +24,7 @@ Develop a comprehensive project that covers Data Classification & Prediction, Im
 
 ### Datasets Link
 [Data Link](https://drive.google.com/drive/folders/1ATULlRKrSensZHs2SxaT7y0b68Rc1vQA)
+
 *Note: For access to the dataset and additional information, please follow the provided hyperlink.*
 
 ### Project Structure
@@ -81,6 +82,6 @@ If you have any questions, feedback, or suggestions, feel free to reach out:
 - Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/priyanga070302/)
   If you have any more questions or need further information, please don't hesitate to get in touch. I'm here to help and answer any inquiries you may have.
 
-# Thank you for exploring the E-Comm-ML project Readme session. I hope you find it informative and engaging!
+### Thank you for exploring the E-Comm-ML project Readme session. I hope you find it informative and engaging!
 
 
