@@ -1,8 +1,7 @@
-## "E-Comm ML : Machine Learning Model Building Project"
-# Project Overview
+## Project Overview
 
 ### Title
-E-Comm ML: Machine Learning Model Building Project
+## E-Comm ML: Machine Learning Model Building Project
 
 ### Objective
 Leverage data science and machine learning techniques to analyze and enhance different aspects of E-commerce data, including EDA, Classification & Prediction, Image processing, NLP, and Recommendation systems.
