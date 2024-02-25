@@ -29,9 +29,9 @@ Develop a comprehensive project that covers Data Classification & Prediction, Im
 ### Project Structure
 The project is organized into distinct sections, including:
 - Data Classification & Prediction
-- Image Processing
-- NLP
-- Recommendation System
+- Image Processing & Classification
+- Natural Language Processing (NLP)
+- Product Recommendation System
 
 ## Section 1: Data Classification & Prediction
 1. Load the E-commerce dataset.
