@@ -1,73 +1,63 @@
 ## "E-Comm ML : NLP, Image, Preprocess, Classify, Predict, Recommend Model"
+# Project Overview
 
-## Introduction
-The E-Commerce ML project is focused on predicting and identifying potential customers in an E-commerce dataset using machine learning classification. This project incorporates Natural Language Processing (NLP), image processing, preprocessing, classification, prediction, and a recommendation model.
+### Title
+E-Comm ML: Machine Learning Model Building Project
 
-## Table of Contents
-1. Problem Statement
-2. Data files
-3. Project Steps
-    - Data Read
-    - EDA with Plots
-    - Preprocessing
-    - Statistical Analysis
-    - Feature Selection
-    - Model Building
-    - Live Data Predictions
-    - Model Evaluation
-    - Image Processing
-    - NLP
-    - Recommendation System
-4. Getting Started
-5. Contact Information
+### Objective
+Leverage data science and machine learning techniques to analyze and enhance different aspects of E-commerce data, including EDA, Classification & Prediction, Image processing, NLP, and Recommendation systems.
 
-## Problem Statement
-We aim to predict and identify visitors who are likely to convert into customers using an E-commerce dataset. The dataset includes a target variable, "has_converted," which needs to be classified to determine whether a user or a visitor will convert as a customer.
+### Technologies Used
+- Python
+- Streamlit
+- Pandas
+- Numpy
+- Scikit-learn
+- Pillow (PIL)
+- Tesseract (OCR)
+- NLTK
+- Visualization modules or packages
+- And more necessary modules or packages...
 
-## Data files
-The data files that are used for this project is available in the repository and can be accessed
+### Problem Statement
+Develop a comprehensive project that covers Data Classification & Prediction, Image processing, NLP, and Recommendation systems using an E-commerce dataset. The goal is to predict user conversion, explore data patterns, preprocess images, analyze text data, and recommend products.
 
-## Project Steps
-### Classification & Prediction
-### Data Read
-- Read the E-commerce dataset.
+### Datasets Link
+[Data Link](https://drive.google.com/drive/folders/1ATULlRKrSensZHs2SxaT7y0b68Rc1vQA)
+*Note: For access to the dataset and additional information, please follow the provided hyperlink.*
 
-### EDA with Plots
-- Utilize Streamlit for interactive visualizations.
+### Project Structure
+The project is organized into distinct sections, including:
+- Data Classification & Prediction
+- Image Processing
+- NLP
+- Recommendation System
 
-### Preprocessing
-- Clean and preprocess the data.
+## Section 1: Data Classification & Prediction
+1. Load the E-commerce dataset.
+2. Perform data preprocessing and exploration.
+3. Split the dataset into training and testing sets.
+4. Build and evaluate machine learning models for classification.
+5. Display precision, recall, accuracy, and F1-score.
 
-### Statistical Analysis
-- Conduct statistical analysis on the preprocessed data.
+## Section 2: Image Processing
+1. Upload & read the Image.
+2. Process the Image, and perform image pre-processing steps.
+3. Display pre-processed images with titles (e.g., Resized Image, Edge Detected Image, etc.).
+4. If a Text Image is uploaded, show the result of OCR (Optical Character Recognition).
 
-### Feature Selection
-- Identify and select relevant features for model building.
+## Section 3: NLP
+1. Input a bunch of text.
+2. Perform NLP pre-processing steps.
+3. Showcase each step's outputs with their names.
+4. Find keywords from the text.
+5. Perform sentiment analysis on the text and visualize the plot.
 
-### Model Building
-- Build at least 3 machine learning models for classification.
-
-### Live Data Predictions
-- Implement model predictions for live stream data.
-
-### Model Evaluation
-- Display precision, recall, accuracy, and F1-score for each model.
-
-### Image Preprocessing
-- Read and preprocess images.
-- Display pre-processed images with titles (e.g., Edge Detected Image).
-- Implement OCR for text images (using Tesseract, keras-ocr, etc.).
-
-### NLP (Natural Language Processing)
-- Input text data.
-- Perform NLP pre-processing.
-- Show steps and outputs with names.
-- Extract keywords from the text.
-- Conduct sentiment analysis for the text.
-
-### Recommendation System
-- Build a product recommendation system based on the dataset.
-- Allow users to input a product and receive at least 5 recommended products.
+## Section 4: Recommendation System
+1. Build a product recommendation system using the E-commerce dataset.
+2. Allow users to input a product and receive recommended products.
+3. Implement recommendation algorithms.
+4. Display atleast 5 recommended products.
 
 ## Getting Started
 
@@ -84,9 +74,13 @@ The data files that are used for this project is available in the repository and
 ## Contribution Guidelines
   Contributions to this project are highly encouraged. If you come across any challenges or have ideas for enhancements, we invite you to submit a pull request. Your input is valuable to us, and we appreciate your contributions.
 
-## Contact Information
-  Email: sec19ee048@sairamtap.edu.in
-  LinkedIn: www.linkedin.com/in/priyanga070302
+### Contact Information
+If you have any questions, feedback, or suggestions, feel free to reach out:
 
-  If you have any more questions or need further information, please don't hesitate to get in touch. We're here to help and answer any inquiries you may have.
+- Contact me via email: [email](mailto:sec19ee048@sairamtap.edu.in)
+- Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/priyanga070302/)
+  If you have any more questions or need further information, please don't hesitate to get in touch. I'm here to help and answer any inquiries you may have.
+
+# Thank you for exploring the E-Comm-ML project Readme session. I hope you find it informative and engaging!
+
 
