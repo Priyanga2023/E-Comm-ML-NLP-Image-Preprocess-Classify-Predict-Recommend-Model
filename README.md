@@ -1,4 +1,4 @@
-## "E-Comm ML : NLP, Image, Preprocess, Classify, Predict, Recommend Model"
+## "E-Comm ML : Machine Learning Model Building Project"
 # Project Overview
 
 ### Title
