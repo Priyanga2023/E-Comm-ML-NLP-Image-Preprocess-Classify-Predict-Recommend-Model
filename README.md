@@ -79,6 +79,7 @@ If you have any questions, feedback, or suggestions, feel free to reach out:
 
 - Contact me via email: [email](mailto:sec19ee048@sairamtap.edu.in)
 - Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/priyanga070302/)
+
   If you have any more questions or need further information, please don't hesitate to get in touch. I'm here to help and answer any inquiries you may have.
 
 ### Thank you for exploring the E-Comm-ML project Readme session. I hope you find it informative and engaging!
